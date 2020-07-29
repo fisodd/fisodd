@@ -14,13 +14,13 @@ My current repositories at GitHub tend to fall into two categories:
 
 - Website tools &mdash;
 notably support of [reStructuredText](https://docutils.sourceforge.io/rst.html) in [Hugo](https://gohugo.io/),
-this including the pinned repositories below.
+this includes the pinned repositories below.
 - Data Visualizations &mdash;
 as a life-long learner of Data Science, occasionally some of my data projects have reason to escape my local servers and end up becoming hosted here.
 
 ### What's Elsewhere
 
-Much of my work these days is related to [SPEC](https://www.spec.org).
+Much of my work these days is related to [SPEC](https://www.spec.org), though a few bits make it to [my own site](https://www.fisodd.com/).
 
 For any other materials, feel free to use the contact info listed here or on my [contact page](https://www.fisodd.com/info/alexander/)
 
