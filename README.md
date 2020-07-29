@@ -22,11 +22,16 @@ as a life-long learner of Data Science, occasionally some of my data projects ha
 
 Much of my work these days is related to [SPEC](https://www.spec.org), though a few bits make it to [my own site](https://www.fisodd.com/).
 
-For any other materials, feel free to use the contact info listed here or on my [contact page](https://www.fisodd.com/info/alexander/)
+For any other materials, feel free to reach me via the contact info listed here or on my [contact page](https://www.fisodd.com/info/alexander/)
 
-Otherwise, you may find me [working the sidelines of a soccer pitch](https://www.PCSSL.org). :soccer:
-
-
+Otherwise, you may find me
+[working](https://www.PCSSL.org)
+[the sidelines](http://www.ayso2a.org/under-16-19-madison-league)
+[of some](https://www.ayso2j.org/)
+[soccer](https://www.southbayvipsoccer.org/)
+[pitch](https://www.2jpresidentscup.com/).
+:soccer:
+ 
 <!--
 **fisodd/fisodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
